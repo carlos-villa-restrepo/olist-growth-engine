@@ -1,6 +1,6 @@
 # 🚀 OLIST GROWTH ENGINE
 
-**Sistema para recomendar productos y optimizar las ventas analizando el comportamiento del cliente..**
+**Sistema para recomendar productos y optimizar las ventas analizando el comportamiento del cliente.**
 
 ---
 
